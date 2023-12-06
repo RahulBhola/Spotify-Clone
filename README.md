@@ -2,7 +2,9 @@
 
 Created a Spotify Clone using MERN Stack 
 
-1. Created frontend using ReactJs
+Here I created 2 folders one for frontend and other for backend and connect backend to MongoDb, checked through postman. For frontend I used ReactJs and cloudinary.
+
+1. Created frontend using ReactJs: 
 
 1.1 Home Page: Contains main content of songs that we want toplay or listen.
 ![Screenshot (312)](https://github.com/RahulBhola/Spotify-Clone/assets/104344946/cf17da53-06ab-49ca-a073-5827afa490ba)
