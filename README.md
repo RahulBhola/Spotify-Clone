@@ -2,7 +2,27 @@
 
 Created a Spotify Clone using MERN Stack 
 
-Here I created 2 folders one for frontend and other for backend and connect backend to MongoDb, checked through postman. For frontend I used ReactJs and cloudinary.
+Here I created 2 folders one for frontend and other for backend and connect backend to MongoDb, checked through postman, Used cookie to store token. For frontend I used ReactJs, cloudinary, used tailwindcss for styling and iconify for Icons.
+
+command used: 
+
+npm run start
+npm i passport passport-jwt 
+npm i dotenv  
+npm i express  
+npm i jwt           
+npm i mongoose 
+npm install mongodb  
+npm install @craco/craco  
+npx tailwindcss-cli@latest init  
+npm i react-router-dom  
+npm install postcss@8  
+npx tailwindcss@2 -i ./src/index.css -o ./src/output.css        
+npm install --save-dev @iconify/react
+npm i cors  
+npm i react-cookie 
+npm i @cloudinary/react @cloudinary/url-gen cloudinary-core cloudinary-react   
+npm i howler 
 
 1. Created frontend using ReactJs: 
 
