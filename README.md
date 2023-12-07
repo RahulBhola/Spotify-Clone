@@ -66,5 +66,5 @@ npm i howler
 ![Screenshot (324)](https://github.com/RahulBhola/Spotify-Clone/assets/104344946/64c9ca59-aaa5-4df2-be13-bc3eef3cc41e)
 
 
-
+THANK YOU
 
